@@ -43,7 +43,7 @@
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-          <a class="navbar-brand page-scroll" href="#page-top"> <img src="../img/OHD-Logo-PUB.png" class="img-responsive"> 
+          <a class="navbar-brand page-scroll" href="#page-top"> <img src="img/OHD-Logo-PUB.png" class="img-responsive"> 
           </a> 
         </div>
         
@@ -278,7 +278,7 @@
             <div class="col-md-10 col-md-offset-1">
               <div id="testimonial" class="owl-carousel owl-theme">
                 <div class="item">
-                  <p itemprop="review">"Great mulch selection and very fast service."</p>
+                  <p itemprop="review">"Very nice gentleman came to my house and fixed my broken spring faster than any other company could make it."</p>
                   <p>- Davey Jones, Davis County, UT</p>
                 </div>
                 <div class="item">
@@ -286,11 +286,11 @@
                   <p>- Jenny Young, Salt Lake County, UT</p>
                 </div>
                 <div class="item">
-                  <p itemprop="review">"My yard looks better than it ever has! Thanks guys!"</p>
-                  <p>- Gavin Emarosa, Utah County, UT</p>
+                  <p itemprop="review">"Thought I was stuck inside my garage over a long holiday weekend, but Overhead of Bountiful came that day and got me out! 10/10 would recommend"</p>
+                  <p>- Gavin Emarosa, Farmington, UT</p>
                 </div>
                 <div class="item">
-                  <p itemprop="review">"They showed up on time and did an amazing job. Rocky Peak has gone above and beyond when caring for my yard."</p>
+                  <p itemprop="review">"Best door selection and quick install"</p>
                   <p>- Emery Matt, Davis County, UT</p>
                 </div>
               </div>

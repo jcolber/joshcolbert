@@ -397,7 +397,7 @@ ol.type li a:hover {
 }
 #testimonials .overlay {
 	padding: 120px 0;
-	background: rgb(209, 27, 14);
+	background: black;
 	opacity: .7;
 }
 #testimonials h2 {
