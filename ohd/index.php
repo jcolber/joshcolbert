@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Overhead Door Company of Bountiful</title>
 <meta name="description" content="Utah Garage Door Repair, Service, and Installation">
-<meta name="author" content="Overhead Door of Bountiful">
+<meta name="author" content="">
 
 <!-- Favicons
     ================================================== -->
@@ -379,14 +379,14 @@
       </div>
     </div>
   </div>
-<script type="text/javascript" src="js/jquery.1.11.1.js" async></script> 
-<script type="text/javascript" src="js/bootstrap.min.js" async></script> 
-<script type="text/javascript" src="js/SmoothScroll.js" async></script> 
-<script type="text/javascript" src="js/nivo-lightbox.js" async></script> 
-<script type="text/javascript" src="js/jquery.isotope.js" async></script> 
-<script type="text/javascript" src="js/owl.carousel.js" async></script> 
-<script type="text/javascript" src="js/jqBootstrapValidation.js" async></script> 
-<script type="text/javascript" src="js/contact_me.js" async></script> 
-<script type="text/javascript" src="js/main.js" async></script>
+<script type="text/javascript" src="js/jquery.1.11.1.js"></script> 
+<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="js/SmoothScroll.js"></script> 
+<script type="text/javascript" src="js/nivo-lightbox.js"></script> 
+<script type="text/javascript" src="js/jquery.isotope.js"></script> 
+<script type="text/javascript" src="js/owl.carousel.js"></script> 
+<script type="text/javascript" src="js/jqBootstrapValidation.js"></script> 
+<script type="text/javascript" src="js/contact_me.js"></script> 
+<script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
