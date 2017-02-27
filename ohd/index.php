@@ -380,7 +380,7 @@
     </div>
   </div>
 <script type="text/javascript" src="js/jquery.1.11.1.js" async></script> 
-<script type="text/javascript" src="js/bootstrap.min.js" async></script> 
+<script type="text/javascript" src="js/bootstrap.min.js" defer></script> 
 <script type="text/javascript" src="js/SmoothScroll.js" async></script> 
 <script type="text/javascript" src="js/nivo-lightbox.js" async></script> 
 <script type="text/javascript" src="js/jquery.isotope.js" async></script> 
