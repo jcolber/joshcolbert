@@ -15,15 +15,15 @@
 <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
 <!-- Bootstrap -->
-<link rel="stylesheet" type="text/css"  href="css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css" defer>
+<link rel="stylesheet" type="text/css"  href="css/bootstrap.min.css" async>
+<link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css" async>
 
 <!-- Stylesheet
     ================================================== -->
-<link rel="stylesheet" type="text/css" href="css/global.css">
-<link rel="stylesheet" type="text/css" href="css/nivo-lightbox/nivo-lightbox.css">
-<link rel="stylesheet" type="text/css" href="css/nivo-lightbox/default.css">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/global.css" async>
+<link rel="stylesheet" type="text/css" href="css/nivo-lightbox/nivo-lightbox.css" async>
+<link rel="stylesheet" type="text/css" href="css/nivo-lightbox/default.css" async>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" async>
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
