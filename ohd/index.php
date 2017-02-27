@@ -379,6 +379,6 @@
       </div>
     </div>
   </div>
-  <?php include("../templates/js.php"); ?>
+  <?php include("templates/js.php"); ?>
 </body>
 </html>
