@@ -15,7 +15,7 @@
 <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
 <!-- Bootstrap -->
-<link rel="stylesheet" type="text/css"  href="css/bootstrap.min.css" defer>
+
 <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css" async>
 
 <!-- Stylesheet
@@ -379,6 +379,7 @@
       </div>
     </div>
   </div>
+<link rel="stylesheet" type="text/css"  href="css/bootstrap.min.css" defer>
 <script type="text/javascript" src="js/jquery.1.11.1.js" async></script> 
 <script type="text/javascript" src="js/bootstrap.min.js" defer></script> 
 <script type="text/javascript" src="js/SmoothScroll.js" async></script> 
