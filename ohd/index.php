@@ -183,11 +183,11 @@
           <div class="portfolio-items">
             <div class="col-sm-6 col-md-4 residential">
               <div class="portfolio-item">
-                <div class="hover-bg"> <a href="images/residential.jpg" title="Residential" data-lightbox-gallery="gallery1">
+                <div class="hover-bg"> <a href="image/xresidential.jpg.pagespeed.ic.1znSiIKXez.jpg" title="Residential" data-lightbox-gallery="gallery1">
                   <div class="hover-text">
                     <h4>Model Blank</h4>
                   </div>
-                  <img src="images/residential.jpg" class="img-responsive" alt="Landscape Design"> </a> </div>
+                  <img src="image/xresidential.jpg.pagespeed.ic.1znSiIKXez.jpg" class="img-responsive" alt="Landscape Design"> </a> </div>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 residential">
@@ -219,38 +219,38 @@
             </div>
             <div class="col-sm-6 col-md-4 residential">
               <div class="portfolio-item">
-                <div class="hover-bg"> <a href="images/residential2.jpg" title="Residentail" data-lightbox-gallery="gallery1">
+                <div class="hover-bg"> <a href="image/xresidential2.jpg.pagespeed.ic.KHytNfPr3u.jpg" title="Residentail" data-lightbox-gallery="gallery1">
                   <div class="hover-text">
                     <h4>Model Blank</h4>
                   </div>
-                  <img src="images/residential2.jpg" class="img-responsive" alt="Decorative Flowers"> </a> </div>
+                  <img src="image/xresidential2.jpg.pagespeed.ic.KHytNfPr3u.jpg" class="img-responsive" alt="Decorative Flowers"> </a> </div>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 residential">
               <div class="portfolio-item">
-                <div class="hover-bg"> <a href="images/residential3.jpg" title="Beautiful Landscaping" data-lightbox-gallery="gallery1">
+                <div class="hover-bg"> <a href="image/xresidential3.jpg.pagespeed.ic.DtGTjMv0xO.jpg" title="Beautiful Landscaping" data-lightbox-gallery="gallery1">
                   <div class="hover-text">
                     <h4>Model Blank</h4>
                   </div>
-                  <img src="images/residential3.jpg" class="img-responsive" alt="Beautiful Landscaping"> </a> </div>
+                  <img src="image/xresidential3.jpg.pagespeed.ic.DtGTjMv0xO.jpg" class="img-responsive" alt="Beautiful Landscaping"> </a> </div>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 industrial">
               <div class="portfolio-item">
-                <div class="hover-bg"> <a href="images/rytec.jpg" title="Industrial Doors" data-lightbox-gallery="gallery1">
+                <div class="hover-bg"> <a href="image/rytec.jpg.pagespeed.ce.mSO0XJGlDa.jpg" title="Industrial Doors" data-lightbox-gallery="gallery1">
                   <div class="hover-text">
                     <h4>Model Blank</h4>
                   </div>
-                  <img src="images/rytec.jpg" class="img-responsive" alt="Flower Arrangements"> </a> </div>
+                  <img src="image/rytec.jpg.pagespeed.ce.mSO0XJGlDa.jpg" class="img-responsive" alt="Flower Arrangements"> </a> </div>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 residential">
               <div class="portfolio-item">
-                <div class="hover-bg"> <a href="images/05-large.jpg" title="Professional Tree Service" data-lightbox-gallery="gallery1">
+                <div class="hover-bg"> <a href="image/05-large.jpg.pagespeed.ce.LnBb5AEovS.jpg" title="Professional Tree Service" data-lightbox-gallery="gallery1">
                   <div class="hover-text">
                     <h4>Model Blank</h4>
                   </div>
-                  <img src="images/05-large.jpg" class="img-responsive" alt="Professional Tree Service"> </a> </div>
+                  <img src="image/05-large.jpg.pagespeed.ce.LnBb5AEovS.jpg" class="img-responsive" alt="Professional Tree Service"> </a> </div>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 residential">
