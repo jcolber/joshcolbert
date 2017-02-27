@@ -15,7 +15,7 @@
 <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
 <!-- Bootstrap -->
-<link rel="stylesheet" type="text/css"  href="css/bootstrap.min.css" async>
+<link rel="stylesheet" type="text/css"  href="css/bootstrap.min.css" defer>
 <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css" async>
 
 <!-- Stylesheet
