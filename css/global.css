@@ -215,7 +215,10 @@ hr.small {
 }
 
 .portfolio-item {
-    margin-bottom: 30px;
+  padding-left:10%;
+  padding-right:10%;
+  padding-top:10%;
+  padding-bottom:10%;
 }
 
 .img-portfolio {
@@ -224,6 +227,11 @@ hr.small {
 
 .img-portfolio:hover {
     opacity: 0.8;
+}
+
+.portfolio-text h1{
+  font-size:4.5vh;
+  color:white;
 }
 
 /* Call to Action */
